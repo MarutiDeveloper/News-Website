@@ -1,2 +1,2 @@
-# News-Website
-Using HTML, CSS, JAVASCRIPT
+# Newswebsite
+News-Website Project In HTML And CSS, JavaScript
